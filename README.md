@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 	<p align="left">
-		<a href="https://www.linkedin.com/in/xavier-chavaudrey-297834221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chavaudrey xavier" height="30" width="40" /></a>
-	</p>
+		<a href="https://www.linkedin.com/in/xavier-chavaudrey-297834221/" target="blank">
+			<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chavaudrey xavier" height="30" width="40" />
+		</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 	</a> 
-	</p>
 	<a href="https://symfony.com" target="_blank" rel="noreferrer"> 
 		<img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
 	</a> 
