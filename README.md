@@ -11,15 +11,15 @@ I'm a french ✨ web developer ✨
 
 🔭 My projects:
 - a portfolio with Symfony 6
-- 
+
 🌱 My prefered framework:
 - Symfony
-- 
+ 
 😄 I’m currently learning:
 - Javascript
 - ReactJS
 - ...
-- 
+ 
 📫 How to reach me:
 - https://www.linkedin.com/in/xavier-chavaudrey-297834221/
 
