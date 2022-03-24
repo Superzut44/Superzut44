@@ -19,9 +19,6 @@ I'm a french ✨ web developer ✨
 - Javascript
 - ReactJS
 - ...
- 
-📫 How to reach me:
-- https://www.linkedin.com/in/xavier-chavaudrey-297834221/
 
 <h3 align="left">Connect with me:</h3>
 	<p align="left">
