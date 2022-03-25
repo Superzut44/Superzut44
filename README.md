@@ -10,7 +10,7 @@ Welcome on my Github! :pray:
 I'm a french ✨ web developer ✨
 
 🔭 My projects:
-- a portfolio with Symfony 6
+- a portfolio with Symfony 6 and React 17
 
 🌱 My prefered framework:
 - Symfony
