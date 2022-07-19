@@ -18,6 +18,8 @@ I'm a french ✨ web developer ✨
 😄 I’m currently learning:
 - Javascript
 - ReactJS
+- Angular
+- Java
 - ...
 
 <h3 align="left">Connect with me:</h3>
