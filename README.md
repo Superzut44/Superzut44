@@ -20,6 +20,7 @@ I'm a french ✨ web developer ✨
 - ReactJS
 - Angular
 - Java
+- CodeIgniter 3
 - ...
 
 <h3 align="left">Connect with me:</h3>
