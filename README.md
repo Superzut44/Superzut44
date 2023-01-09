@@ -21,6 +21,7 @@ I'm a french ✨ web developer ✨
 - Angular
 - Java
 - CodeIgniter 3
+- PostgreSQL
 - ...
 
 <h3 align="left">Connect with me:</h3>
