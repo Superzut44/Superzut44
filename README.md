@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Xavier Chavaudrey
+### My name is Xavier C
 
 <!--
 **Superzut44/Superzut44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
